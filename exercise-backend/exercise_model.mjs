@@ -4,7 +4,7 @@ import mongoose from 'mongoose';
 
 // Prepare to the database movies_db in the MongoDB server running locally on port 27017
 mongoose.connect(
-    'mongodb+srv://alienily:Clee2010!@excercises.78daa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
+
 );
 
 // Connect to to the database
